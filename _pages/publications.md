@@ -22,7 +22,7 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://dl.acm.org/doi/10.1145/3532106.3533560"> <b>Helping Helpers: Supporting Volunteers in Remote Sighted Assistance with Augmented Reality Maps</b> </a> <br>
-				Jingyi Xie*, <b>Rui Yu*</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll<br> (*Equal contribution)
+				Jingyi Xie*, <b>Rui Yu*</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll (*Equal contribution)<br>
 				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2022.<br>
 				[<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>]
 			  </p>
@@ -33,7 +33,7 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://dl.acm.org/doi/10.1145/3490099.3511113"> <b>Opportunities for Human-AI Collaboration in Remote Sighted Assistance</b> </a> <br>
-				Sooyeon Lee*, <b>Rui Yu*</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll<br> (*Equal contribution)
+				Sooyeon Lee*, <b>Rui Yu*</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll (*Equal contribution)<br>
 				ACM International Conference on Intelligent User Interfaces (<b>IUI</b>), 2022.<br>
 				[<a href="https://dl.acm.org/doi/10.1145/3490099.3511113">paper</a>][<a href="https://www.youtube.com/watch?v=wIa5zvGP2BM">video</a>][<a href="https://www.psu.edu/news/information-sciences-and-technology/story/tech-designed-aid-visually-impaired-could-benefit-human">PSU News</a>]
 			  </p>
