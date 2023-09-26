@@ -10,7 +10,7 @@ author_profile: true
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
-				<a href="https://ruiyu0.github.io/publications"> <b>Cascade Transformers for End-to-End Person Search</b> </a> <br>
+				<a href="https://ruiyu0.github.io/publications"> <b>Be Real in Scale: Swing for True Scale in Dual Camera Mode</b> </a> <br>
 				<b>Rui Yu</b>, Jian Wang, Sizhuo Ma, Sharon X. Huang, Guru Krishnan, Yicheng Wu<br>
 				IEEE International Symposium on Mixed and Augmented Reality (<b>ISMAR</b>), 2023.<br>
 				[<a href="https://ruiyu0.github.io/publications">paper</a>][<a href="https://github.com/ruiyu0/Swing-for-True-Scale">code</a>]
