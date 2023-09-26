@@ -16,4 +16,4 @@ My research interests span the areas of **computer vision**, **machine learning*
 I have two fully-funded Ph.D. student positions in the area of computer vision and deep learning. Students with strong backgrounds in computer vision, machine learning, mathematics, statistics and programming are encouraged to apply. If interested in the position, please send me a resume with your transcript.
 
 [Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/)
-Application deadline: November 1st for Spring semester, May 1st for Fall semester
+(Application deadline: November 1st for Spring semester, May 1st for Fall semester)
