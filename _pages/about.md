@@ -11,7 +11,7 @@ Welcome! I am an Assistant Professor in the Computer Science and Engineering dep
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
-## PhD student positions available
+## <span style="color: red;">PhD student positions available</span>
 
 I have two fully-funded Ph.D. student positions in the area of computer vision and deep learning. Students with strong backgrounds in computer vision, machine learning, and programming are encouraged to apply. If interested in the position, please send me a resume with your transcript.
 
