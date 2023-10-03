@@ -7,6 +7,16 @@ author_profile: true
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2309.13240.pdf"> <b>NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation</b> </a> <br>
+				<b>Rui Yu*</b>, Jiachen Liu*, Zihan Zhou, Sharon X. Huang<br>
+				[<a href="https://arxiv.org/pdf/2309.13240.pdf">paper</a>]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23.jpg" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
