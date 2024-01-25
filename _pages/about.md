@@ -9,7 +9,7 @@ redirect_from:
 header:
   image: "../images/UofL_background.jpg"
 ---
-Welcome! I am an Assistant Professor in the Computer Science and Engineering department of J.B. Speed School of Engineering at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University.
+Welcome! I am an Assistant Professor in the Computer Science and Engineering department of J.B. Speed School of Engineering at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023.
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
