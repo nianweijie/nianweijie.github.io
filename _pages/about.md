@@ -161,14 +161,12 @@ I have two fully-funded Ph.D. student positions in the area of computer vision a
   * AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021
   * International Conference on Pattern Recognition (ICPR), 2018, 2020
 * Journal Reviewer
-  * <span style="font-size:14px;">International Journal of Computer Vision (IJCV)</span>
   * <span style="font-size:16px;">International Journal of Computer Vision (IJCV)</span>
-  * <span style="font-size:18px;">International Journal of Computer Vision (IJCV)</span>
-  * IEEE Transactions on Image Processing (TIP)
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  * Pattern Recognition (PR)
-  * Computer Vision and Image Understanding (CVIU)
-  * Pattern Recognition Letters (PRL)
-  * Journal of Visual Communication and Image Representation (JVCI)
-  * Science China Information Sciences (SCIS)
-  * Computerized Medical Imaging and Graphics (CMIG)
+  * <span style="font-size:16px;">IEEE Transactions on Image Processing (TIP)</span>
+  * <span style="font-size:16px;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</span>
+  * <span style="font-size:16px;">Pattern Recognition (PR)</span>
+  * <span style="font-size:16px;">Computer Vision and Image Understanding (CVIU)</span>
+  * <span style="font-size:16px;">Pattern Recognition Letters (PRL)</span>
+  * <span style="font-size:16px;">Journal of Visual Communication and Image Representation (JVCI)</span>
+  * <span style="font-size:16px;">Science China Information Sciences (SCIS)</span>
+  * <span style="font-size:16px;">Computerized Medical Imaging and Graphics (CMIG)</span>
