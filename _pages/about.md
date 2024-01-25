@@ -151,8 +151,8 @@ I have two fully-funded Ph.D. student positions in the area of computer vision a
 
 ## Services
 
-- Conference Session Chair
-  - Chair for IROS 2021 Session "Visual Tracking II"
+* Conference Session Chair
+  * Chair for IROS 2021 Session "Visual Tracking II"
 * Conference Program Committee Member / Reviewer
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
   * IEEE International Conference on Robotics and Automation (ICRA), 2024
@@ -161,7 +161,9 @@ I have two fully-funded Ph.D. student positions in the area of computer vision a
   * AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021
   * International Conference on Pattern Recognition (ICPR), 2018, 2020
 * Journal Reviewer
-  * International Journal of Computer Vision (IJCV)
+  * <span style="font-family:Papyrus; font-size:4em;">International Journal of Computer Vision (IJCV)</span>
+  * <span style="font-size:4em;">International Journal of Computer Vision (IJCV)</span>
+  * <span style="font-size:6em;">International Journal of Computer Vision (IJCV)</span>
   * IEEE Transactions on Image Processing (TIP)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * Pattern Recognition (PR)
