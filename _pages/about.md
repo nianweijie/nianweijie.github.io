@@ -143,3 +143,30 @@ I have two fully-funded Ph.D. student positions in the area of computer vision a
 		  	</td>
 		</tr>
 </table>
+
+## Teaching
+
+* CSE 419. Introduction to Algorithms (Fall 23, Spring 24)
+* CSE 619. Design and Analysis of Computer Algorithms (Fall 23, Spring 24)
+
+## Services
+
+* Conference Session Chair
+  * Chair for IROS 2021 Session "Visual Tracking II"
+* Conference Program Committee Member / Reviewer
+  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
+  * IEEE International Conference on Robotics and Automation (ICRA), 2024
+  * ACM Conference on Human Factors in Computing Systems (CHI), 2024
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
+  * AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021
+  * International Conference on Pattern Recognition (ICPR), 2018, 2020
+* Journal Reviewer
+  * International Journal of Computer Vision (IJCV)
+  * IEEE Transactions on Image Processing (TIP)
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  * Pattern Recognition (PR)
+  * Computer Vision and Image Understanding (CVIU)
+  * Pattern Recognition Letters (PRL)
+  * Journal of Visual Communication and Image Representation (JVCI)
+  * Science China Information Sciences (SCIS)
+  * Computerized Medical Imaging and Graphics (CMIG)
