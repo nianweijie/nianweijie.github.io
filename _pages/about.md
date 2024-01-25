@@ -63,7 +63,7 @@ My research interests span the areas of **computer vision**, **machine learning*
 				<a href="https://arxiv.org/pdf/2203.09642"> <b>Cascade Transformers for End-to-End Person Search</b> </a> <br>
 				<b>Rui Yu</b>, Dawei Du, Rodney LaLonde, Daniel Davila, Christopher Funk, Anthony Hoogs, Brian Clipp<br>
 				IEEE/CVF International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
-				[<a href="https://arxiv.org/pdf/2203.09642">paper</a>][<a href="https://github.com/Kitware/COAT">code</a>]
+				[<a href="https://arxiv.org/pdf/2203.09642">paper</a>][<a href="https://github.com/Kitware/COAT">code</a>]https://doi.org/10.1109/cvpr52688.2022.00712
 			  </p>
 			</td>
 		</tr>
