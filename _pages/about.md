@@ -7,13 +7,139 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am an Assistant Professor in the Computer Science and Engineering department of J.B. Speed School of Engineering at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in August 2023.
+Welcome! I am an Assistant Professor in the Computer Science and Engineering department of J.B. Speed School of Engineering at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University.
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
 ## PhD student positions available
 
-I have two fully-funded Ph.D. student positions in the area of computer vision and deep learning. Students with strong backgrounds in computer vision, machine learning, and programming are encouraged to apply. If interested in the position, please send me a resume with your transcript.
+I have two fully-funded Ph.D. student positions in the area of computer vision and deep learning. Students with related backgrounds (computer vision, machine learning, and programming) are encouraged to apply. If interested in the position, please send me your resume.
 
-[CSE Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/)
-(Application deadline: November 1st 2023 for Spring semester, May 1st 2024 for Fall semester)
+[CSE Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
+(Application deadline: May 1st 2024 for Fall semester)
+
+## Publications
+
+<table style="border: 1px solid transparent">
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/neo.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2309.13240.pdf"> <b>NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation</b> </a> <br>
+				<b>Rui Yu*</b>, Jiachen Liu*, Zihan Zhou, Sharon X. Huang<br>
+				arXiv preprint, 2023.<br>
+				[<a href="https://arxiv.org/pdf/2309.13240.pdf">paper</a>]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23(1).png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://jianwang-cmu.github.io/23realScale/Swing_for_True_Scale__ISMAR_2023_.pdf"> <b>Be Real in Scale: Swing for True Scale in Dual Camera Mode</b> </a> <br>
+				<b>Rui Yu</b>, Jian Wang, Sizhuo Ma, Sharon X. Huang, Guru Krishnan, Yicheng Wu<br>
+				IEEE International Symposium on Mixed and Augmented Reality (<b>ISMAR</b>), 2023.<br>
+				[<a href="https://jianwang-cmu.github.io/23realScale/Swing_for_True_Scale__ISMAR_2023_.pdf">paper</a>][<a href="https://github.com/ruiyu0/Swing-for-True-Scale">code</a>]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/dis23.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://dl.acm.org/doi/10.1145/3563657.3596019"> <b>Are Two Heads Better than One? Investigating Remote Sighted Assistance with Paired Volunteers</b> </a> <br>
+				Jingyi Xie, <b>Rui Yu</b>, Kaiming Cui, Sooyeon Lee, John M. Carroll, Syed Masum Billah<br>
+				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2023.<br>
+				[<a href="https://dl.acm.org/doi/10.1145/3563657.3596019">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/coat.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2203.09642"> <b>Cascade Transformers for End-to-End Person Search</b> </a> <br>
+				<b>Rui Yu</b>, Dawei Du, Rodney LaLonde, Daniel Davila, Christopher Funk, Anthony Hoogs, Brian Clipp<br>
+				IEEE/CVF International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2022.<br>
+				[<a href="https://arxiv.org/pdf/2203.09642">paper</a>][<a href="https://github.com/Kitware/COAT">code</a>]
+			  </p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/dis22.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://dl.acm.org/doi/10.1145/3532106.3533560"> <b>Helping Helpers: Supporting Volunteers in Remote Sighted Assistance with Augmented Reality Maps</b> </a> <br>
+				Jingyi Xie*, <b>Rui Yu*</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll (*Equal contribution)<br>
+				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2022.<br>
+				[<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iui22.jpg" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://dl.acm.org/doi/10.1145/3490099.3511113"> <b>Opportunities for Human-AI Collaboration in Remote Sighted Assistance</b> </a> <br>
+				Sooyeon Lee*, <b>Rui Yu*</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll (*Equal contribution)<br>
+				ACM International Conference on Intelligent User Interfaces (<b>IUI</b>), 2022.<br>
+				[<a href="https://dl.acm.org/doi/10.1145/3490099.3511113">paper</a>][<a href="https://www.youtube.com/watch?v=wIa5zvGP2BM">video</a>][<a href="https://www.psu.edu/news/information-sciences-and-technology/story/tech-designed-aid-visually-impaired-could-benefit-human">PSU News</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros21.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2108.08259.pdf"> <b>Towards Robust Human Trajectory Prediction in Raw Videos</b> </a> <br>
+				<b>Rui Yu</b>, Zihan Zhou<br>
+				IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2021.<br>
+				[<a href="https://arxiv.org/pdf/2108.08259.pdf">paper</a>][<a href="https://github.com/rui-yu-public/Retracking-by-Prediction">code</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/iros20.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2009.10827.pdf"> <b>Data-Driven Distributed State Estimation and Behavior Modeling in Sensor Networks</b> </a> <br>
+				<b>Rui Yu</b>, Zhenyuan Yuan, Minghui Zhu, Zihan Zhou<br>
+				IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2020.<br>
+				[<a href="https://arxiv.org/pdf/2009.10827.pdf">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/deep-person.jpg" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/1711.10658"> <b>Deep-Person: Learning Discriminative Deep Features for Person Re-Identification</b> </a> <br>
+				Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, <b>Rui Yu</b>, Yongchao Xu<br>
+				Pattern Recognition (<b>PR</b>), 2020.<br>
+				[<a href="https://arxiv.org/pdf/1711.10658">paper</a>][<a href="https://github.com/zydou/Deep-Person">code</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/eccv18.jpg" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/1807.11206"> <b>Hard-Aware Point-to-Set Deep Metric for Person Re-identification</b> </a> <br>
+				<b>Rui Yu</b>, Zhiyong Dou, Song Bai, Zhaoxiang Zhang, Yongchao Xu, Xiang Bai<br>
+				European Conference on Computer Vision (<b>ECCV</b>), 2018.<br>
+				[<a href="https://arxiv.org/pdf/1807.11206">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/bmvc17.jpg" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/1708.04169"> <b>Divide and Fuse: A Re-ranking Approach for Person Re-identification</b> </a> <br>
+				<b>Rui Yu</b>, Zhichao Zhou, Song Bai, Xiang Bai<br>
+				British Machine Vision Conference (<b>BMVC</b>), 2017.<br>
+				[<a href="https://arxiv.org/pdf/1708.04169">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+</table>
