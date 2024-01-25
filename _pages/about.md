@@ -15,7 +15,7 @@ My research interests span the areas of **computer vision**, **machine learning*
 
 I have two fully-funded Ph.D. student positions in the area of computer vision and deep learning. Students with related backgrounds (computer vision, machine learning, and programming) are encouraged to apply. If interested in the position, please send me your resume.
 
-[CSE Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
+[CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
 (Application deadline: May 1st 2024 for Fall semester)
 
 ## Publications
@@ -152,14 +152,14 @@ I have two fully-funded Ph.D. student positions in the area of computer vision a
 ## Services
 
 * Conference Session Chair
-  * Chair for IROS 2021 Session "Visual Tracking II"
+  * <span style="font-size:16px;">Chair for IROS 2021 Session "Visual Tracking II"</span>
 * Conference Program Committee Member / Reviewer
-  * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024
-  * IEEE International Conference on Robotics and Automation (ICRA), 2024
-  * ACM Conference on Human Factors in Computing Systems (CHI), 2024
-  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
-  * AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021
-  * International Conference on Pattern Recognition (ICPR), 2018, 2020
+  * <span style="font-size:16px;">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024</span>
+  * <span style="font-size:16px;">IEEE International Conference on Robotics and Automation (ICRA), 2024</span>
+  * <span style="font-size:16px;">ACM Conference on Human Factors in Computing Systems (CHI), 2024</span>
+  * <span style="font-size:16px;">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021</span>
+  * <span style="font-size:16px;">AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021</span>
+  * <span style="font-size:16px;">International Conference on Pattern Recognition (ICPR), 2018, 2020</span>
 * Journal Reviewer
   * <span style="font-size:16px;">International Journal of Computer Vision (IJCV)</span>
   * <span style="font-size:16px;">IEEE Transactions on Image Processing (TIP)</span>
