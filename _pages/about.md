@@ -161,12 +161,9 @@ I have two fully-funded Ph.D. student positions in the area of computer vision a
   * AAAI Conference on Artificial Intelligence (AAAI), 2019, 2020, 2021
   * International Conference on Pattern Recognition (ICPR), 2018, 2020
 * Journal Reviewer
-  * <span style="font-size:4px;">International Journal of Computer Vision (IJCV)</span>
-  * <span style="font-size:6px;">International Journal of Computer Vision (IJCV)</span>
-  * <span style="font-size:8px;">International Journal of Computer Vision (IJCV)</span>
-  * <span style="font-size:10px;">International Journal of Computer Vision (IJCV)</span>
-  * <span style="font-size:12px;">International Journal of Computer Vision (IJCV)</span>
   * <span style="font-size:14px;">International Journal of Computer Vision (IJCV)</span>
+  * <span style="font-size:16px;">International Journal of Computer Vision (IJCV)</span>
+  * <span style="font-size:18px;">International Journal of Computer Vision (IJCV)</span>
   * IEEE Transactions on Image Processing (TIP)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   * Pattern Recognition (PR)
