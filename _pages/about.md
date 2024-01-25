@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  image: "../images/UofL_background.jpg"
 ---
 Welcome! I am an Assistant Professor in the Computer Science and Engineering department of J.B. Speed School of Engineering at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University.
 
