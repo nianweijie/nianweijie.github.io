@@ -3,8 +3,17 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
+  - title: "About"
+    url: / # or /about/
+
   - title: "Publications"
     url: \#publications
+
+  - title: "Teaching"
+    url: \#teaching
+
+  - title: "Services"
+    url: \#services
 
   # - title: "Talks"
   #   url: /talks/    
