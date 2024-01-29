@@ -29,7 +29,7 @@ My research interests span the areas of **computer vision**, **machine learning*
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2309.13240.pdf"> <b>NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation</b> </a> <br>
 				<b>Rui Yu*</b>, Jiachen Liu*, Zihan Zhou, Sharon X. Huang<br>
-				arXiv preprint, 2023.<br>
+				IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2024.<br>
 				[<a href="https://arxiv.org/pdf/2309.13240.pdf">paper</a>]
 			  </p>
 			</td>
