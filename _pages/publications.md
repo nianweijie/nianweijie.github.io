@@ -18,6 +18,17 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/chi24.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://ruiyu0.github.io/"> <b>BubbleCam: Engaging Privacy in Remote Sighted Assistance</b> </a> <br>
+				Jingyi Xie*, <b>Rui Yu*</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
+				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2024.<br>
+				[<a href="https://ruiyu0.github.io/">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23(1).png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
