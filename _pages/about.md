@@ -14,7 +14,7 @@ My research interests span the areas of **computer vision**, **machine learning*
 
 ## PhD student positions available
 
-<span style="color:red">I have two fully-funded Ph.D. student positions starting from Fall 2024. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
+<span style="color:red">I have fully-funded Ph.D. student positions starting from Fall 2024. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
 
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
 (Application deadline: May 1st 2024 for Fall semester)
