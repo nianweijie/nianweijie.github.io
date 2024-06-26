@@ -53,7 +53,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2403.11672"> <b>WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising</b> </a> <br>
-				Haoyu Zhao, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, <b>Rui Yu*</b><br>
+				Haoyu Zhao, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, <b>Rui Yu</b><br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
 				[<a href="https://arxiv.org/pdf/2403.11672">paper</a>]
 			  </p>
@@ -64,7 +64,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2403.11689"> <b>MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation</b> </a> <br>
-				Haoyu Zhao, Wenhui Dong, <b>Rui Yu*</b>, Zhou Zhao, Du Bo, Yongchao Xu<br>
+				Haoyu Zhao, Wenhui Dong, <b>Rui Yu</b>, Zhou Zhao, Du Bo, Yongchao Xu<br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
 				[<a href="https://arxiv.org/pdf/2403.11689">paper</a>]
 			  </p>
@@ -75,7 +75,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2405.12872"> <b>Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image</b> </a> <br>
-				Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, <b>Rui Yu*</b>, Zhou Zhao, Yongchao Xu<br>
+				Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, <b>Rui Yu</b>, Zhou Zhao, Yongchao Xu<br>
 				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
 				[<a href="https://arxiv.org/pdf/2405.12872">paper</a>][<a href="https://github.com/zzr728/SAGAN">code</a>]
 			  </p>
