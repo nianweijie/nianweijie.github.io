@@ -12,12 +12,16 @@ Welcome! I am an Assistant Professor in the <a href="https://engineering.louisvi
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
-## PhD student positions available
+## To Prospective Students
+
+I am seeking motivated students interested in computer vision and/or human-computer interaction research. If you are a student at the UofL or in the Louisville area and wish to explore research opportunities, please email me.
+
+<!-- ## PhD student positions available
 
 <span style="color:red">I have fully-funded Ph.D. student positions starting from Fall 2024. Feel free to contact me regarding PhD applications, internships, and visiting students/scholars.</span>
 
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
-(Application deadline: May 1st 2024 for Fall semester)
+(Application deadline: May 1st 2024 for Fall semester) -->
 
 ## Publications
 
@@ -41,6 +45,39 @@ My research interests span the areas of **computer vision**, **machine learning*
 				Jingyi Xie*, <b>Rui Yu*</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
 				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2024.<br>
 				[<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/WIA-LD2ND.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2403.11672"> <b>WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising</b> </a> <br>
+				Haoyu Zhao, Guyu Liang, Zhou Zhao, Bo Du, Yongchao Xu, <b>Rui Yu*</b><br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				[<a href="https://arxiv.org/pdf/2403.11672">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/MoreStyle.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2403.11689"> <b>MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation</b> </a> <br>
+				Haoyu Zhao, Wenhui Dong, <b>Rui Yu*</b>, Zhou Zhao, Du Bo, Yongchao Xu<br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				[<a href="https://arxiv.org/pdf/2403.11689">paper</a>]
+			  </p>
+		  	</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/SAGAN.png" width="150"></td>
+			<td height="112" style="border: 1px solid transparent">
+			  <p style="text-indent: 0em">
+				<a href="https://arxiv.org/pdf/2405.12872"> <b>Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image</b> </a> <br>
+				Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, <b>Rui Yu*</b>, Zhou Zhao, Yongchao Xu<br>
+				International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>), 2024.<br>
+				[<a href="https://arxiv.org/pdf/2405.12872">paper</a>][<a href="https://github.com/zzr728/SAGAN">code</a>]
 			  </p>
 		  	</td>
 		</tr>
