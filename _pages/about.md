@@ -31,7 +31,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://arxiv.org/pdf/2309.13240.pdf"> <b>NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation</b> </a> <br>
-				<b>Rui Yu*</b>, Jiachen Liu* (Co-first), Zihan Zhou, Sharon X. Huang<br>
+				<b>Rui Yu*</b>, Jiachen Liu* (co-first), Zihan Zhou, Sharon X. Huang<br>
 				IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2024.<br>
 				[<a href="https://arxiv.org/pdf/2309.13240.pdf">paper</a>]
 			  </p>
@@ -42,7 +42,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf"> <b>BubbleCam: Engaging Privacy in Remote Sighted Assistance</b> </a> <br>
-				Jingyi Xie*, <b>Rui Yu* (Co-first)</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
+				Jingyi Xie*, <b>Rui Yu* (co-first)</b>, He Zhang, Sooyeon Lee, Syed Masum Billah, John M. Carroll<br>
 				ACM Conference on Human Factors in Computing Systems (<b>CHI</b>), 2024.<br>
 				[<a href="https://a11y.ist.psu.edu/downloads/bublecam.pdf">paper</a>]
 			  </p>
@@ -119,7 +119,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://dl.acm.org/doi/10.1145/3532106.3533560"> <b>Helping Helpers: Supporting Volunteers in Remote Sighted Assistance with Augmented Reality Maps</b> </a> <br>
-				Jingyi Xie*, <b>Rui Yu*</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll (*Equal contribution)<br>
+				Jingyi Xie*, <b>Rui Yu* (co-first)</b>, Sooyeon Lee, Yao Lyu, Syed Masum Billah, John M. Carroll<br>
 				ACM SIGCHI Conference on Designing Interactive Systems (<b>DIS</b>), 2022.<br>
 				[<a href="https://dl.acm.org/doi/10.1145/3532106.3533560">paper</a>][<a href="https://www.youtube.com/watch?v=A6NyAfch9X8">video</a>]
 			  </p>
@@ -130,7 +130,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<a href="https://dl.acm.org/doi/10.1145/3490099.3511113"> <b>Opportunities for Human-AI Collaboration in Remote Sighted Assistance</b> </a> <br>
-				Sooyeon Lee*, <b>Rui Yu*</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll (*Equal contribution)<br>
+				Sooyeon Lee*, <b>Rui Yu* (co-first)</b>, Jingyi Xie, Syed Masum Billah, John M. Carroll<br>
 				ACM International Conference on Intelligent User Interfaces (<b>IUI</b>), 2022.<br>
 				[<a href="https://dl.acm.org/doi/10.1145/3490099.3511113">paper</a>][<a href="https://www.youtube.com/watch?v=wIa5zvGP2BM">video</a>][<a href="https://www.psu.edu/news/information-sciences-and-technology/story/tech-designed-aid-visually-impaired-could-benefit-human">PSU News</a>]
 			  </p>
