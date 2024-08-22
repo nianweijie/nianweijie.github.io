@@ -59,7 +59,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 			  </p>
 		  	</td>
 		</tr>
-		<tr style="border: 1px solid transparent">
+<!-- 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/MoreStyle.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
@@ -80,7 +80,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 				[<a href="https://arxiv.org/pdf/2405.12872">paper</a>][<a href="https://github.com/zzr728/SAGAN">code</a>]
 			  </p>
 		  	</td>
-		</tr>
+		</tr> -->
 		<tr style="border: 1px solid transparent">
 			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://ruiyu0.github.io/images/ismar23(1).png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
