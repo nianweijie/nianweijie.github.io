@@ -8,7 +8,7 @@ redirect_from:
 header:
   image: "../images/UofL_background.jpg"
 ---
-Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Computer Science and Engineering department</a> of J.B. Speed School of Engineering at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
+Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
@@ -23,7 +23,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
 [CSE@UofL Ph.D. Program](https://catalog.louisville.edu/graduate/programs-study/doctor-philosophy-computer-science-engineering/#admissiontext)
 (Application deadline: May 1st 2024 for Fall semester) -->
 
-## Publications
+## Selected Publications
 
 <table style="border: 1px solid transparent">
 		<tr style="border: 1px solid transparent">
@@ -195,8 +195,8 @@ I am seeking motivated students interested in computer vision and/or human-compu
 
 ## Teaching
 
-* CSE 419. Introduction to Algorithms (Fall 23, Spring 24)
-* CSE 619. Design and Analysis of Computer Algorithms (Fall 23, Spring 24)
+* CSE 419. Introduction to Algorithms
+* CSE 619. Design and Analysis of Computer Algorithms
 
 ## Services
 
@@ -204,6 +204,7 @@ I am seeking motivated students interested in computer vision and/or human-compu
   * <span style="font-size:16px;">Chair for IROS 2021 Session "Visual Tracking II"</span>
 * Conference Program Committee Member / Reviewer
   * <span style="font-size:16px;">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, 2024</span>
+  * <span style="font-size:16px;">European Conference on Computer Vision (ECCV), 2024</span>
   * <span style="font-size:16px;">IEEE International Conference on Robotics and Automation (ICRA), 2024</span>
   * <span style="font-size:16px;">ACM Conference on Human Factors in Computing Systems (CHI), 2024</span>
   * <span style="font-size:16px;">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021</span>
