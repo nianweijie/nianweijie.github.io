@@ -10,6 +10,8 @@ redirect_from:
 ---
 
 I am very happy to introduce myself. I received my MS in biomedical engineering at Yanshan University in 2021. Before thaat, I worked in a power plant in Tangshan City, China for 7 years. Then, I became a patent examiner focusing on electrics and mechanics. 
+You can check my CV (https://nianweijie.github.io/assets/CV.pdf)
+
 
 A data-driven personal website
 ======
