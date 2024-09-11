@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: "../images/UofL_background.jpg"
+  image: "../images/UC2.jpg"
 ---
 Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
 
