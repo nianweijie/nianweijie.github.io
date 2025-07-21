@@ -8,7 +8,7 @@ redirect_from:
 header:
   image: "../images/UC2.jpg"
 ---
-Welcome! I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
+Welcome! I am makinng my own website out of ruiyu's website. I am an Assistant Professor in the <a href="https://engineering.louisville.edu/academics/departments/computer">Department of Computer Science and Engineering </a> at the University of Louisville. I received my PhD in Information Sciences and Technology from the Pennsylvania State University in 2023, Bachelor's and Master's degrees from Tsinghua University.
 
 My research interests span the areas of **computer vision**, **machine learning**, **human-computer interaction**, and **robotics**. My research employs a hybrid approach integrating data-driven learning and human-centered design to address major human-centric challenges.
 
