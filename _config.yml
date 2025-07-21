@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Shuo Cao"
-title_separator          : "-"
+title_separator          : "S C"
 name                     : &name "Shuo Cao"
-description              : &description "personal description"
+description              : &description "I am trying to make my ouwn personal page."
 url                      : https://caoshuomoonlight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caoshuomoonlight/caoshuomoonlight.github.io"
