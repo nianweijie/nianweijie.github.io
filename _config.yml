@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weijie Nian / Site Title"
+title                    : "Weijie Nian / Site Title/:)"
 title_separator          : "-"
 name                     : &name "Weijie Nian"
 description              : &description "MS in BMS at Yanshan University"
